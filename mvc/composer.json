@@ -1,0 +1,16 @@
+{
+    "name": "unicode/mvc",
+    "description": "Build mvc by unicode",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xuanhai"
+        }
+    ],
+    "require": {}
+}
